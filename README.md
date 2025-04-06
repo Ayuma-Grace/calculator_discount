@@ -1,4 +1,3 @@
-﻿# calculator_discount
 # Discount Calculator
 
 This Python program calculates the final price of an item after applying a discount. If the discount percentage is 20% or higher, it applies the discount and returns the discounted price. Otherwise, it returns the original price without any change.
